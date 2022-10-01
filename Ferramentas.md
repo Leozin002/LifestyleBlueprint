@@ -1,4 +1,4 @@
-A apple tem uma série de ferramentas avançadas e todas elas muito bem explicadas para ser o guia do desenvolvedor. Certamente envolvem uma descrição de como cada ferramenta contribui num projeto e geralmente acompanham prints para demonstrar como se comportam visualmente num projeto, para dar certo basta estudar.
+A apple tem uma série de ferramentas avançadas e todas elas muito bem explicadas, para ser o guia do desenvolvedor. Certamente envolvem uma descrição de como cada ferramenta contribui num projeto e geralmente acompanham prints para demonstrar como se comportam visualmente num projeto, para dar certo basta estudar.
 Essas ferramentas foram pesquisadas e uma série foi compilada. Sem saber programar, foi possível através disso pelo menos esboçar um aplicativo imaginando como ele pode ser feito usando tudo junto:
 
 ShazamKit -> Inspirou a ideia do "LifeStyle Blueprint" quando buscava algo que pudesse contribuir no quesito cultural.
