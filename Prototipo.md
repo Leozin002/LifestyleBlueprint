@@ -21,7 +21,7 @@ A música traz, sobretudo, informações do artista e local de origem, com a op�
 
 ## Tela 3 - Lista de músicas
 
-Visualizado separações por país, com título e autor de cada música.
+Visualizado separações por país, com título e autor de cada música. Opção de ouvir no apple music inserida.
 
 <img width="303" alt="image" src="https://user-images.githubusercontent.com/114830095/193435276-68cf9375-ed84-4e24-8eaf-e4ce35da7078.png">
 
