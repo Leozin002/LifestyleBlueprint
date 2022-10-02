@@ -46,3 +46,7 @@ Mostra quais são músicas e países mais tocados e outros dados relevantes, que
 
 <img width="306" alt="image" src="https://user-images.githubusercontent.com/114830095/193435329-d8c461ff-42b5-4af8-8f30-c2bdbbe11902.png">
 
+
+
+Ferramenta utilizada: proto.io
+Autor: Leonardo Bastos Guaringue
